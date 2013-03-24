@@ -1,0 +1,16 @@
+{
+  "name": "modernizr",
+  "repo": "Frapwings/modernizr",
+  "description": "Modernizr for component",
+  "version": "2.6.2",
+  "keywords": [
+    "Modernizr",
+    "component"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT"
+}
